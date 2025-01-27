@@ -1,25 +1,27 @@
-import React from 'react';
-import './App.css';
-import Header from './Header';
-import Hero from './Hero';
-import About from './About';
-import Services from './Services';
-import Testimonials from './Testimonials';
-import Contact from './Contact';
-import Footer from './Footer';
+import React from "react";
+import myImage from "./assets/myImage.png"; // PNG dosyasının yolunu belirtiyoruz
 
-function App() {
+const CenteredImage = () => {
   return (
-    <div className="App">
-      <Header />
-      <Hero />
-      <About />
-      <Services />
-      <Testimonials />
-      <Contact />
-      <Footer />
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        height: "100vh", // Tam ekran yüksekliği
+        backgroundColor: "#1c283f", // Arka plan rengi
+      }}
+    >
+      <img
+        src={myImage}
+        alt="Centered Graphic"
+        style={{
+          width: "740px",
+          height: "296",
+        }}
+      />
     </div>
   );
-}
+};
 
-export default App;
+export default CenteredImage;
