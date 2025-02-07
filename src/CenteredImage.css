@@ -1,0 +1,15 @@
+/* CenteredImage.css */
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Tam ekran yüksekliği */
+    background-color: #1c283f; /* Arka plan rengi */
+  }
+  
+  .centered-image {
+    max-width: 80%; /* Görsel genişliği ekranın %80'ini geçmesin */
+    max-height: 80%; /* Görsel yüksekliği ekranın %80'ini geçmesin */
+    object-fit: contain; /* Görselin boyutlandırmasını korur */
+  }
+  
