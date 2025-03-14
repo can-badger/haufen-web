@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.831c5102.css",
-    "main.js": "/static/js/main.3833d904.js",
-    "static/js/488.4caacdac.chunk.js": "/static/js/488.4caacdac.chunk.js",
-    "static/media/myImage.png": "/static/media/myImage.8421f7fb5495120594c3.png",
+    "main.css": "/static/css/main.6dec2706.css",
+    "main.js": "/static/js/main.6ac79d3f.js",
+    "static/js/705.df123eb2.chunk.js": "/static/js/705.df123eb2.chunk.js",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.79164ee524feb6583a94.ttf",
+    "static/media/Lato-LightItalic.ttf": "/static/media/Lato-LightItalic.929a79de65192edd4e88.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/haufen-green.png": "/static/media/haufen-green.29eb051b8b0728785381.png",
     "index.html": "/index.html",
-    "main.831c5102.css.map": "/static/css/main.831c5102.css.map",
-    "main.3833d904.js.map": "/static/js/main.3833d904.js.map",
-    "488.4caacdac.chunk.js.map": "/static/js/488.4caacdac.chunk.js.map"
+    "main.6dec2706.css.map": "/static/css/main.6dec2706.css.map",
+    "main.6ac79d3f.js.map": "/static/js/main.6ac79d3f.js.map",
+    "705.df123eb2.chunk.js.map": "/static/js/705.df123eb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.831c5102.css",
-    "static/js/main.3833d904.js"
+    "static/css/main.6dec2706.css",
+    "static/js/main.6ac79d3f.js"
   ]
 }
